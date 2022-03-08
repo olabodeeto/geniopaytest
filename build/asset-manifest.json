@@ -1,13 +1,44 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1cc4625.css",
-    "main.js": "/static/js/main.c67701b6.js",
+    "main.css": "/static/css/main.93804a49.css",
+    "main.js": "/static/js/main.0a80ff2e.js",
+    "static/media/event.png": "/static/media/event.6eed6ae5d92180d320cc.png",
+    "static/media/signupbg.jpg": "/static/media/signupbg.3ca1ac3dd4c158606658.jpg",
+    "static/media/megaphone.svg": "/static/media/megaphone.21b673907e2594714a133941bfec0bba.svg",
+    "static/media/avatar.svg": "/static/media/avatar.a40b95d575240d0b66a140f243e960cc.svg",
+    "static/media/logo.svg": "/static/media/logo.cd6aab55d3af3d911735a5c282ccac7e.svg",
+    "static/media/flag3.svg": "/static/media/flag3.2cca1d79c4a1281b0804d2c32f4142f9.svg",
+    "static/media/g.jpg": "/static/media/g.1c7846c628cd8c5bf024.jpg",
+    "static/media/flag2.svg": "/static/media/flag2.ecb875bd575b5c8c1fa517d23c1b289e.svg",
+    "static/media/tree.svg": "/static/media/tree.22742692fe3c3535cc28091b188dbb17.svg",
+    "static/media/greenwallet.svg": "/static/media/greenwallet.054714920aaa5a88886cbf3b29e75db9.svg",
+    "static/media/balanceex.svg": "/static/media/balanceex.3dc5e01b5f451ae74341394e6dff898e.svg",
+    "static/media/transfer.svg": "/static/media/transfer.7be7a2557f5663ba3c9459ee5e721d81.svg",
+    "static/media/addwallet.svg": "/static/media/addwallet.dc253223bbec59e8623a8a1d3a3480d8.svg",
+    "static/media/generate.svg": "/static/media/generate.32c95323f576f68006e289c4564ae357.svg",
+    "static/media/orangestar.svg": "/static/media/orangestar.b6c7eaf53373276a36b9aa92d63dc3f4.svg",
+    "static/media/paymentlink.svg": "/static/media/paymentlink.8a8ee23b76af11fd9a9f672d909a81ce.svg",
+    "static/media/profile.svg": "/static/media/profile.18e8d6dfc22650bf29f7a856bf7be2a1.svg",
+    "static/media/addcard.svg": "/static/media/addcard.b377d87dbf292553f31efe9407887e94.svg",
+    "static/media/wallet.svg": "/static/media/wallet.5a6dcbf1484a6309271bc963724a1eec.svg",
+    "static/media/mobilemoney.svg": "/static/media/mobilemoney.0f37fb0bc94579a6be01ce9a3d7c28c8.svg",
+    "static/media/notification.svg": "/static/media/notification.6c09f0c3f319fb381e7c22eb3f6c8642.svg",
+    "static/media/transactionchat.svg": "/static/media/transactionchat.8c62c4cb5f040d20c69fc9ae1bf22172.svg",
+    "static/media/security.svg": "/static/media/security.f8dc047831fd7605eb8eefc46006424f.svg",
+    "static/media/fx.svg": "/static/media/fx.c52d6b0ac06fe38f410a010b8a365367.svg",
+    "static/media/dashboardicon.svg": "/static/media/dashboardicon.2793c0d8257e4a3e9f090feab83cec91.svg",
+    "static/media/card.svg": "/static/media/card.176e6631cd13b75f317d9421ab272fe3.svg",
+    "static/media/tag.svg": "/static/media/tag.2cbb001f15eb4cb7e1b03a80b3cfb019.svg",
     "index.html": "/index.html",
-    "main.c1cc4625.css.map": "/static/css/main.c1cc4625.css.map",
-    "main.c67701b6.js.map": "/static/js/main.c67701b6.js.map"
+    "static/media/payin.svg": "/static/media/payin.a58b76d7c52dbb21a26940c1cf4924a2.svg",
+    "static/media/payout.svg": "/static/media/payout.170f2fce22c67e157ac377ba743277d4.svg",
+    "static/media/search.svg": "/static/media/search.eeef59072039fc748088914451bc62e4.svg",
+    "static/media/flag1.svg": "/static/media/flag1.6d7f98054ab3a8428ddf39c2ad8bed18.svg",
+    "main.93804a49.css.map": "/static/css/main.93804a49.css.map",
+    "main.0a80ff2e.js.map": "/static/js/main.0a80ff2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1cc4625.css",
-    "static/js/main.c67701b6.js"
+    "static/css/main.93804a49.css",
+    "static/js/main.0a80ff2e.js"
   ]
 }

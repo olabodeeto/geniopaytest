@@ -1,6 +1,4 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
-import { useLocation } from "react-router-dom";
 import Aside from "./Aside";
 import searchicon from "../assets/icons/search.svg";
 import tree from "../assets/icons/tree.svg";
@@ -13,9 +11,9 @@ export default function Header() {
 
   return (
     <>
-      <div className="flex gap-0 z-50 fixed flex-row w-full h-full">
+      <div className="flex gap-0 flex-row w-full">
         <Aside openNav={navbarOpen} />
-        <header className="lg:w-10/12 shadow-md md:shadow-none top-0 w-full flex justify-between items-center px-2 h-20 bg-white">
+        <header className="lg:w-10/12 md:pl-20 m-auto right-0 z-40 fixed shadow-md md:shadow-none top-0 w-full flex justify-between items-center px-2 h-20 bg-white">
           <div className="flex gap-6 md:gap-0 w-full md:mt-6">
             <div className="md:mt-4 lg:hidden">
               <button
@@ -40,7 +38,7 @@ export default function Header() {
             </div>
             <div className="flex w-full md:pl-4 md:py-5 ">
               <div className=" hidden lg:block w-4/12">
-                <h2 className="text-2xl xl:3xl text-textColor mt-5 xl:mt-4">
+                <h2 className="text-2xl xl:3xl text-textColor mt-5 xl:mt-4 font-bold">
                   Welcome, Huss Smith
                 </h2>
               </div>
@@ -99,7 +97,7 @@ export default function Header() {
                     <div className="md:mr-2 flex justify-center items-center">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
-                        class="h-6 w-6"
+                        className="h-6 w-6"
                         fill="none"
                         viewBox="0 0 24 24"
                         stroke="currentColor"

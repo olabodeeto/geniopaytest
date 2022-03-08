@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useLayoutEffect } from "react";
+import React, { useState, useLayoutEffect } from "react";
 import logo from "../assets/logo.svg";
 import WalletBalance from "./WalletBalance";
 import ReferAd from "./ReferAd";
@@ -14,7 +14,7 @@ export default function Aside({ openNav }) {
   return (
     <>
       <aside
-        className={` bg-primary min-h-screen w-full absolute ${
+        className={` bg-primary top-0 h-screen w-full fixed z-50 ${
           navbarOpen ? "sidebar-left-open" : "sidebar-left-close"
         }  lg:relative lg:w-80 left-0  z-50`}
       >

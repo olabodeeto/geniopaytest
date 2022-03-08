@@ -11,9 +11,9 @@ export default function WalletBalance() {
           <div className="flex w-2/12 tems-center">
             <img src={greenwallet} alt="" />
           </div>
-          <div className="w-10/12">
-            <p className="text-white">Wallet Balance</p>
-            <p className="text-white font-bold">$15,001.00</p>
+          <div className="w-10/12 py-1">
+            <p className="text-white leading-4">Wallet Balance</p>
+            <p className="text-white font-bold leading-4">$15,001.00</p>
           </div>
           <div className="flex justify-start w-2/12 items-center ">
             <img src={security} alt="" />
@@ -24,9 +24,9 @@ export default function WalletBalance() {
           <div className="flex w-2/12 tems-center">
             <img src={orangestar} alt="" />
           </div>
-          <div className="w-10/12">
-            <p className="text-white">Awarded Points</p>
-            <p className="text-white font-bold">35</p>
+          <div className="w-10/12 py-1">
+            <p className="text-white leading-4">Awarded Points</p>
+            <p className="text-white font-bold leading-4">35</p>
           </div>
           <div className="flex justify-start w-2/12 items-center "></div>
         </div>
